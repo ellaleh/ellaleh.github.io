@@ -48,9 +48,27 @@
         "name": "María Zambrano",
         "role": "Filósofa — exilio en Morelia",
         "bio": "La misma ciudad de Morelia fue donde María Zambrano y su esposo pasaron los primeros meses de su vida como refugiados de guerra y exiliados de la España del Generalísimo Franco (abril–diciembre de 1937), en paralelo temporal con la acogida de los niños de Morelia."
+      },
+      {
+        "name": "Julián Martínez Soto (1921-2000)",
+        "role": "Escultor y pintor — niño de Morelia",
+        "image": {
+          "src": "content/Lázaro_Cárdenas_(Madrid)._04.JPG",
+          "caption": "Lázaro Cárdenas del Río, presidente de México que dio la bienvenida a los niños de Morelia; Martínez Soto esculpiría más adelante su monumento en Madrid."
+        },
+        "bio": "Julián Martínez Soto es un escultor y pintor español que realizó más de 200 esculturas. Nació en 1921 en Valencia, y llegó a México en 1937 con el grupo de niños exiliados republicanos conocidos como los niños de Morelia. Tenía 16 años cuando llegó a México y recibió asilo. Se educó en la Escuela Industrial México-España y en la Escuela Nacional de Bellas Artes antes de comenzar su carrera en las artes. Su escultura más conocida se encuentra en Madrid y conmemora al expresidente Lázaro Cárdenas del Río, quien dio la bienvenida a los niños de Morelia. Falleció en 2000 en la Ciudad de México debido a un ataque al corazón."
+      },
+      {
+        "name": "Francisco González Aramburu (1927)",
+        "role": "Escritor — ex niño de Morelia",
+        "image": {
+          "src": "content/franciscogonzalezaramburu.png",
+          "caption": "Francisco González Aramburu, testimonio sobre la escuela de Morelia y el exilio (González Aramburu y Sicot, 2004)."
+        },
+        "bio": "\"El primer sentimiento que tuve como niño de Morelia fue de una soledad total\" (González 222).\n\nFrancisco González Aramburu nació en Barcelona en 1927, y allí fue educado. Era bilingüe, y provenía de una familia católica con un padre anarquista. En 1937, durante la Guerra Civil, sus padres lo enviaron a México a bordo del SS Mexique, pensando que la Guerra terminaría pronto. González Aramburu tenía diez años y viajó con tres de sus hermanas. Al llegar, fue internado en la escuela de Morelia, que describe como un hospicio, donde experimentó una profunda soledad. A finales de los años cuarenta intentó regresar a España, pero ante el riesgo del servicio militar cruzó ilegalmente a Francia. Pronto regresó a México, donde se casó en 1950 y formó una familia. También colaboró con la revista Presencia y comenzó a publicar poemas y cuentos, incluyendo \"Las latas de sardinas\"."
       }
     ],
-    "obras_citadas": "Dufeille, Philippe. Paquebot LAFAYETTE. Version 3, Mar. 2021, www.navires-14-18.com/fichiers/L/LAFAYETTE_CGT_V3.pdf. Accessed 29 Mar. 2026.\n\"SS Mexique.\" Military History Wiki, Fandom, military-history.fandom.com/wiki/SS_Mexique. Accessed 29 Mar. 2026.\nPla Brugat, Dolores. Los niños de Morelia. Un estudio sobre los primeros refugiados españoles en México. 2nd ed. Mexico: Conaculta/ INAH, 1999.\nNota: la segunda fuente (wiki) y otras incurrieron en errores de cronología (p. ej. 1939 en lugar de 1937 para la expedición de Morelia); el artículo de Rodríguez García corrige en silencio tales errores."
+    "obras_citadas": "Dufeille, Philippe. Paquebot LAFAYETTE. Version 3, Mar. 2021, www.navires-14-18.com/fichiers/L/LAFAYETTE_CGT_V3.pdf. Accessed 29 Mar. 2026.\n\"SS Mexique.\" Military History Wiki, Fandom, military-history.fandom.com/wiki/SS_Mexique. Accessed 29 Mar. 2026.\nPla Brugat, Dolores. Los niños de Morelia. Un estudio sobre los primeros refugiados españoles en México. 2nd ed. Mexico: Conaculta/ INAH, 1999.\nNota: la segunda fuente (wiki) y otras incurrieron en errores de cronología (p. ej. 1939 en lugar de 1937 para la expedición de Morelia); el artículo de Rodríguez García corrige en silencio tales errores.\n\"Julián Martínez Soto.\" Wikidata, https://www.wikiwand.com/en/Juli%C3%A1n_Mart%C3%ADnez_Soto. Accessed 20 Apr. 2026.\nGonzález Aramburu Francisco, Sicot Bernard. Témoignage d'exil : Francisco González Aramburu, « ex niño de Morelia » I et II. In: Exils et migrations ibériques au XXe siècle, n°1, 2004. Témoignages d'exil entre parole et silence : regards et points de vue, sous la direction de Andrée Bachoud et Geneviève Dreyfus-Armand. pp. 221-258."
   },
   "sinaia": {
     "name": "SS Sinaia",
@@ -109,9 +127,27 @@
           "caption": "Pedro Garfias, poeta republicano que cruzó el Atlántico en el Sinaia hasta Veracruz."
         },
         "bio": "Pedro Garfias fue un destacado poeta español nacido en Salamanca y una de las voces más importantes del movimiento ultraísta en España. Al igual que León Felipe, Garfias regresó a España para defender la causa republicana durante la Guerra Civil, convirtiéndose en el \"poeta de los frentes\" y recibiendo el Premio Nacional de Literatura en 1938 por su obra Poesía de la guerra (Fundación Pablo Neruda). Tras la caída de la República en 1939, huyó a Francia y fue internado en un campo de concentración antes de lograr embarcarse en el SS Sinaia rumbo a México. Durante la travesía, Garfias escribió algunos de sus versos más conmovedores, reflejando el dolor del exilio y la esperanza del nuevo continente. En México, continuó su labor poética hasta su fallecimiento en 1967 en Monterrey, donde es recordado como un símbolo de la fraternidad entre España y América Latina (Virtual Museum of the Spanish Civil War)."
+      },
+      {
+        "name": "Rodolfo Halffter (1900-1987)",
+        "role": "Compositor — pasajero del Sinaia, 1939",
+        "image": {
+          "src": "content/rodolfo.jpeg",
+          "caption": "Rodolfo Halffter, compositor; exiliado en México tras el viaje del SS Sinaia."
+        },
+        "bio": "Rodolfo Halffter nació en 1900 en Madrid, España. Aprendió música por sí mismo y fue brevemente discípulo del compositor neoclásico Manuel de Falla. En los años treinta, Halffter empezó a ganar reconocimiento en Europa. Se unió al Grupo de los Ocho, una sociedad de compositores que priorizaba la innovación y la música vanguardista. Trabajó como crítico de música para \"La Voz\". Halffter también se unió al Ministerio de Propaganda de la República, y por eso necesitó huir de España tras la derrota de la República por parte de Franco al concluir la Guerra Civil Española. Huyó a México a bordo del SS Sinaia y obtuvo la ciudadanía. Se convirtió en profesor del Conservatorio Nacional en 1940 y dirigió la editorial de compositores conocida como Ediciones Mexicanas de Música. En 1969, fue incluido en la Academia Mexicana de Artes, aunque a la mayor parte de su música le faltaba influencia mexicana y mantuvo el estilo del Grupo de los Ocho. Se le atribuye haber traído el serialismo a México. Halffter regresó a España muchas veces antes de su muerte. Enseñó en Granada y Santiago de Compostela. Recibió el máximo galardón de España por composición, el Premio Nacional de Música, en 1986, un año antes de fallecer en la Ciudad de México."
+      },
+      {
+        "name": "Adolfo Sánchez Vázquez (1915-2011)",
+        "role": "Filósofo — pasajero del Sinaia, 1939",
+        "image": {
+          "src": "content/AdolfoSanchezVasquez.jpg",
+          "caption": "Adolfo Sánchez Vázquez, filósofo y pasajero del SS Sinaia hacia México."
+        },
+        "bio": "Adolfo Sánchez Vázquez, nacido en Algeciras, España en 1915, estudió en la Facultad de Filosofía y Letras de Madrid desde 1935. Se hizo miembro de la Juventud Socialista Unificada, en apoyo de la República. Fundó la revista de poesía Sur. Durante la Guerra Civil, dirigió los periódicos Ágora y Acero, y escribió un libro de poemas que se publicó muchos años después de la guerra.\n\nEn febrero de 1939, Sánchez Vázquez se exilió en Francia, y en junio viajó a México en el SS Sinaia. Recordó el momento de abordar el barco:\n\n\"Al subir finalmente las escalerillas del barco, en cada uno se debatían los más encontrados sentimientos: por un lado, la ira al recordar las frescas humillaciones y vejaciones, la tristeza y la amargura al pensar en los que quedaron en los campos de concentración de Francia o en los familiares de España; y, por otro, el gozo de abandonar una tierra ingrata y la ilusión de alcanzar otra en la que serían tratados como ciudadanos.\" Adolfo Sánchez Vázquez, Recuerdos y reflexiones del exilio (Barcelona: GEXEL, 1997), 37.\n\nEn México, trabajó como profesor en la Facultad de Filosofía de la Universidad Nacional Autónoma de México. Escribió para la revista España Peregrina. Sus obras principales incluyen Las ideas estéticas de Marx, Filosofía de la Praxis y Estética y marxismo. En 1975, regresó a España por primera vez desde su exilio. Murió en la Ciudad de México en 2011."
       }
     ],
-    "obras_citadas": "Schieder, Martin. \"¿Qué pasa a bordo? ¿Qué que pasa en el mundo? The Crossing of Spanish Republican Refugees on the SS Sinaia to Mexico (1939).\" Getty Research Journal, vol. 17, 2023, p. 81-106. Project MUSE, https://dx.doi.org/10.1086/724139.\n\"Breve biografía del Sinaia,\" Sinaia: diario de la primera expedición de republicanos españoles a México, núm. 3, 28 de mayo de 1939, 4, https://www.cervantesvirtual.com/nd/ark:/59851/bmc47683.\n\"iNo desperdiciar el agua portable! Oro liquido\" Sinaia: diario de la primera expedición de republicanos españoles a México, núm. 3, 28 de mayo de 1939, 3, https://www.cervantesvirtual.com/nd/ark:/59851/bmc47683.\nPatricia Gamboa, \"Fernando Gamboa: La Guerra civil y el exilio español,\" in A la sombra del exilio: República española, Guerra civil y exilio, ed. Angelina Muñiz-Huberman and José María Villarías Zugazagoitia (Mexico: City: Universidad Nacional Autónoma de México, 2014), 112–13, https://ru.atheneadigital.filos.unam.mx/jspui/bitstream/FFYL_UNAM/8077/1/Sombra%20del%20exilio.pdf.\n\"León Felipe.\" EBSCO, www.ebsco.com/research-starters/history/leon-felipe. Accessed 28 Mar. 2026.\n\"Nuestra Imagen de Marca - León Felipe.\" RTVE.Es, www.rtve.es/corporacion/imagen-corporativa/.\nSmyth, Diane. \"David 'chim' Seymour's Life in Pictures.\" British Journal of Photography, 29 Oct. 2018, www.1854.photography/2018/10/david-chim-seymours-life-in-pictures/.\n\"Garfias, Pedro.\" Traficantes de Sueños, 9 July 2025, traficantes.net/autorxs/garfias-pedro."
+    "obras_citadas": "Schieder, Martin. \"¿Qué pasa a bordo? ¿Qué que pasa en el mundo? The Crossing of Spanish Republican Refugees on the SS Sinaia to Mexico (1939).\" Getty Research Journal, vol. 17, 2023, p. 81-106. Project MUSE, https://dx.doi.org/10.1086/724139.\n\"Breve biografía del Sinaia,\" Sinaia: diario de la primera expedición de republicanos españoles a México, núm. 3, 28 de mayo de 1939, 4, https://www.cervantesvirtual.com/nd/ark:/59851/bmc47683.\n\"iNo desperdiciar el agua portable! Oro liquido\" Sinaia: diario de la primera expedición de republicanos españoles a México, núm. 3, 28 de mayo de 1939, 3, https://www.cervantesvirtual.com/nd/ark:/59851/bmc47683.\nPatricia Gamboa, \"Fernando Gamboa: La Guerra civil y el exilio español,\" in A la sombra del exilio: República española, Guerra civil y exilio, ed. Angelina Muñiz-Huberman and José María Villarías Zugazagoitia (Mexico: City: Universidad Nacional Autónoma de México, 2014), 112–13, https://ru.atheneadigital.filos.unam.mx/jspui/bitstream/FFYL_UNAM/8077/1/Sombra%20del%20exilio.pdf.\n\"León Felipe.\" EBSCO, www.ebsco.com/research-starters/history/leon-felipe. Accessed 28 Mar. 2026.\n\"Nuestra Imagen de Marca - León Felipe.\" RTVE.Es, www.rtve.es/corporacion/imagen-corporativa/.\nSmyth, Diane. \"David 'chim' Seymour's Life in Pictures.\" British Journal of Photography, 29 Oct. 2018, www.1854.photography/2018/10/david-chim-seymours-life-in-pictures/.\n\"Garfias, Pedro.\" Traficantes de Sueños, 9 July 2025, traficantes.net/autorxs/garfias-pedro.\nSánchez Vázquez, Adolfo. Recuerdos y reflexiones del exilio. GEXEL, 1997.\n\"Adolfo Sánchez Vázquez.\" University of Cádiz, https://www.uca.es/adolfo-sanchez-vazquez/?lang=en. Accessed 20 Apr. 2026.\n\"Adolfo Sánchez Vázquez.\" Facultad de Filosofía y Letras, UNAM, http://www.asv.filos.unam.mx/. Accessed 20 Apr. 2026.\n\"Halffter, Rodolfo (1900–1987).\" Encyclopedia of Latin American History and Culture, Encyclopedia.com, https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/halffter-rodolfo-1900-1987. Accessed 20 Apr. 2026.\n\"Halffter.\" Ebony Band, https://www.ebonyband.nl/en/library/detail/naam/halffter/. Accessed 20 Apr. 2026.\n\"Rodolfo Halffter.\" Instituto Nacional de Bellas Artes y Literatura, https://inba.gob.mx/multimedia/prensa/galerias/13255/13255-IMG_BG_POST-rodolfo.jpeg. Accessed 20 Apr. 2026."
   },
   "winnipeg": {
     "name": "SS Winnipeg",
@@ -168,9 +204,27 @@
           "caption": "Leopoldo Castedo, historiador republicano que llegó a Valparaíso en el Winnipeg en 1939."
         },
         "bio": "Leopoldo Castedo fue un historiador, ensayista y documentalista nacido en Madrid, España. Tras servir en el ejército republicano y pasar por campos de concentración en Francia, llegó a Valparaíso a bordo del SS Winnipeg (Virtual Museum of the Spanish Civil War). En Chile, desarrolló una prolífica carrera académica, destacando su colaboración con Francisco Antonio Encina para sintetizar la monumental Historia de Chile. Además, fue un pionero en el estudio de la arquitectura colonial y el arte precolombino en América Latina. Su labor intelectual ayudó a redefinir la identidad cultural del continente, y sus archivos fotográficos sobre el exilio son hoy una fuente histórica invaluable (Memoria Chilena)."
+      },
+      {
+        "name": "Víctor Pey (1915-2018)",
+        "role": "Ingeniero, editor y asesor — pasajero del Winnipeg, 1939",
+        "image": {
+          "src": "content/Victor Pey.png",
+          "caption": "Víctor Pey, exiliado republicano en Chile tras el SS Winnipeg; fundador del diario Clarín y colaborador de Salvador Allende."
+        },
+        "bio": "Víctor Pey fue una figura cuya obra abarcó más de un siglo de lucha, ingeniería, y medios de comunicación, convirtiéndose en un símbolo de la resiliencia del exiliado. Tras combatir en la Guerra Civil Española y sobrevivir a los campos de concentración en Francia, llegó a Chile en 1939 a bordo del SS Winnipeg. En su nueva patria, Pey no sólo aplicó sus conocimientos técnicos como ingeniero en proyectos de infraestructura fundamentales, sino que se convirtió en una pieza clave de la esfera pública al fundar el diario Clarín, que llegó a ser el más influyente del país. Su lealtad a los principios democráticos lo llevó a ser un asesor íntimo del presidente Salvador Allende, un rol que le costó un segundo exilio tras el golpe de 1973."
+      },
+      {
+        "name": "José Balmes (1927-2020)",
+        "role": "Pintor — refugiado en el Winnipeg, 1939",
+        "image": {
+          "src": "content/José Balmes.png",
+          "caption": "José Balmes, pintor chileno de origen catalán; llegó con su familia en el SS Winnipeg en 1939."
+        },
+        "bio": "José Balmes fue un pintor chileno de origen catalán. Premio Nacional de Arte en 1999. Nació en Cataluña en 1927 y llegó a Chile junto a sus padres como refugiados de la Guerra Civil Española a bordo del Winnipeg en 1939. Siendo estudiante de Bellas Artes en la Universidad de Chile y, como parte del Grupo de Estudiantes Plásticos, fue uno de los precursores de cambios curriculares que fueron el germen de una futura reforma universitaria a finales de la década de 1960. Su impacto en el arte despegó definitivamente en 1962 cuando fundó el Grupo Signo junto a García Barrios y otros artistas clave. Lo que realmente hace única su obra es que logró algo sin precedentes en la cultura chilena: anudar el lenguaje técnico de la pintura directamente con el pulso político y social de Chile y Latinoamérica."
       }
     ],
-    "obras_citadas": "Monteverde, Lazado. “The SS Winnipeg, Pablo Neruda and a Long Petal of the Sea.” Socialist Action, 25 Sept. 2019, socialistaction.org/2019/09/25/the-ss-winnipeg-pablo-neruda-and-a-long-petal-of-the-sea/.\nIntxorta 1937 Kultur Elkartea, 2024, www.intxorta.org/.\nFundación Pablo Neruda, 2024, fundacionneruda.org/.\n“Los Refugiados Españoles en Chile (1939).” Memoria Chilena, Biblioteca Nacional de Chile, www.memoriachilena.gob.cl/602/w3-article-3517.html.\n“The Winnipeg.” Virtual Museum of the Spanish Civil War, vscw.ca/en/node/123."
+    "obras_citadas": "Monteverde, Lazado. “The SS Winnipeg, Pablo Neruda and a Long Petal of the Sea.” Socialist Action, 25 Sept. 2019, socialistaction.org/2019/09/25/the-ss-winnipeg-pablo-neruda-and-a-long-petal-of-the-sea/.\nIntxorta 1937 Kultur Elkartea, 2024, www.intxorta.org/.\nFundación Pablo Neruda, https://fundacionneruda.org/. Accessed 20 Apr. 2026.\n“Los Refugiados Españoles en Chile (1939).” Memoria Chilena, Biblioteca Nacional de Chile, www.memoriachilena.gob.cl/602/w3-article-3517.html.\n“The Winnipeg.” Virtual Museum of the Spanish Civil War, vscw.ca/en/node/123.\n“Isabel Allende talks about migration, life, aging and love.” PBS NewsHour, https://www.pbs.org/newshour/arts/isabel-allende-talks-about-migration-life-aging-and-love. Accessed 20 Apr. 2026.\n“Murió Víctor Pey a los 103 años: el adiós a un sobreviviente de la guerra civil española, fundador del Clarín y colaborador de Salvador Allende.” El Desconcierto, 5 Oct. 2018, https://eldesconcierto.cl/2018/10/05/murio-victor-pey-a-los-103-anos-el-adios-a-un-sobreviviente-de-la-guerra-civil-espanola-fundador-del-clarin-y-colaborador-de-salvador-allende. Accessed 20 Apr. 2026.\n“Homenaje José Balmes.” Museo Nacional de Bellas Artes, Chile, https://www.mnba.gob.cl/noticias/homenaje-jose-balmes. Accessed 20 Apr. 2026.\n“José Balmes.” Wikipedia, https://en.wikipedia.org/wiki/Jos%C3%A9_Balmes. Accessed 20 Apr. 2026."
   },
   "habana": {
     "name": "SS Habana",
@@ -204,14 +258,41 @@
       {
         "name": "Herminio Martínez (1928-2006)",
         "role": "",
+        "image": {
+          "src": "content/Herminio.png",
+          "caption": "Herminio Martínez, evacuado en el SS Habana y activista por la memoria de los niños de la guerra."
+        },
         "bio": "Herminio Martínez fue uno de los casi 4.000 \"niños de la guerra\" que viajó en el SS Habana a los 9 años. Al llegar al Reino Unido, fue acogido por familias británicas y nunca regresó permanentemente a España. Martínez se convirtió en un activista por la memoria histórica, ayudando a fundar asociaciones para documentar la vida de los niños evacuados (The Guardian). Su testimonio fue fundamental para reconstruir la experiencia cotidiana de los niños que perdieron su identidad original para convertirse en ciudadanos británicos de origen español."
       },
       {
         "name": "Sabino Barinaga (1922-1988)",
         "role": "",
+        "image": {
+          "src": "content/Sabino.png",
+          "caption": "Sabino Barinaga, futbolista y pasajero del SS Habana en 1937."
+        },
         "bio": "Sabino Barinaga fue un joven futbolista que formó parte de la expedición del SS Habana en 1937. Durante su estancia en Inglaterra, su talento llamó la atención de ojeadores locales mientras jugaba en los equipos formados en las colonias de refugiados (Refugee History). A diferencia de otros niños, Barinaga regresó a España en 1939, donde se convirtió en una leyenda del fútbol profesional. Es recordado históricamente por marcar el primer gol oficial en la inauguración del nuevo Estadio Santiago Bernabéu en 1947. Su vida representa el vínculo indisoluble entre el exilio infantil y el posterior desarrollo de la cultura deportiva profesional en la España de posguerra (Basque Children of '37 Association)."
+      },
+      {
+        "name": "Pirmin Treku",
+        "role": "Bailarín — evacuado en el SS Habana, 1937",
+        "image": {
+          "src": "content/Pirmin Treku.png",
+          "caption": "Pirmin Treku, vinculado al exilio infantil vasco en el Reino Unido y a la danza clásica."
+        },
+        "bio": "Pirmin Treku es una de las figuras más fascinantes que surgieron del exilio infantil en el Reino Unido. Evacuado en el SS Habana con solo siete años tras el bombardeo de Guernica, su vida tomó un giro inesperado cuando su talento para la danza fue descubierto en los campos de refugiados. A pesar de las barreras del idioma y el trauma de haber sido separado de su familia, logró integrarse en la cultura británica a través del arte, formándose en la Sadler’s Wells Ballet School. Su ascenso fue meteórico, llegando a ser bailarín principal del Royal Ballet, donde se convirtió en un referente de elegancia técnica y expresión dramática. Tras retirarse de los escenarios por una lesión, Treku no abandonó la danza, sino que se trasladó a Oporto para fundar su propia academia. Su legado continúa vivo hoy en instituciones como la Casa da Música, donde su escuela sigue formando a nuevas generaciones, demostrando cómo el arte puede ser una vía de superación y reconstrucción personal tras el desplazamiento forzado."
+      },
+      {
+        "name": "Emilio Aldecoa",
+        "role": "Futbolista — evacuado en el SS Habana, 1937",
+        "image": {
+          "src": "content/Emilio Aldecoa.png",
+          "caption": "Emilio Aldecoa, del exilio infantil en el SS Habana al fútbol profesional en Inglaterra y España."
+        },
+        "bio": "Emilio Aldecoa pasó de ser un refugiado de 14 años en el SS Habana a convertirse en un pionero absoluto del deporte. Tras ser evacuado de Bilbao en 1937 debido a los bombardeos, se estableció en Staffordshire, donde compaginó el trabajo en una fábrica con el fútbol local. En 1943, hizo historia al debutar con el Wolverhampton Wanderers, convirtiéndose en el primer español en jugar profesionalmente en Inglaterra y cerrando esa temporada como el máximo goleador del club. Su regreso a España en 1947 consolidó su carrera en la élite, pasando por el Athletic de Bilbao antes de unirse a un FC Barcelona histórico, con el que ganó dos Ligas y tres Copas. Incluso tras retirarse, su bilingüismo y experiencia internacional le permitieron seguir vinculado al fútbol como entrenador y asistente técnico. Su trayectoria es el reflejo de cómo un joven que huyó de la guerra en un barco de niños terminó transformando el exilio en un legado de éxito en las ligas más importantes de Europa."
       }
     ],
-    "obras_citadas": "Basque Children of ’37 Association UK, 2024, www.archive.basquechildren.org/.\nThorpe, Vanessa. “The Reception of Basque Refugees in 1937 Showed Britain at its Best and Worst.” The Guardian, 22 May 2017, www.theguardian.com/world/2017/may/22/the-reception-of-basque-refugees-in-1937-showed-britain-at-its-best-and-worst.\n“Basque Refugee Children Collections.” University of Southampton Library, www.southampton.ac.uk/archives/resources/basquecollections.page.\nTaylor, Barry. “The 4,000 Basque Refugee Children Evacuated to Britain in May 1937.” Refugee History, 27 Sept. 2018, refugeehistory.org/blog/2018/9/27/the-4000-basque-refugee-children-evacuated-to-britain-in-may-1937."
+    "obras_citadas": "Basque Children of ’37 Association UK, 2024, www.archive.basquechildren.org/.\nThorpe, Vanessa. “The Reception of Basque Refugees in 1937 Showed Britain at its Best and Worst.” The Guardian, 22 May 2017, www.theguardian.com/world/2017/may/22/the-reception-of-basque-refugees-in-1937-showed-britain-at-its-best-and-worst.\n“Basque Refugee Children Collections.” University of Southampton Library, www.southampton.ac.uk/archives/resources/basquecollections.page.\nTaylor, Barry. “The 4,000 Basque Refugee Children Evacuated to Britain in May 1937.” Refugee History, 27 Sept. 2018, refugeehistory.org/blog/2018/9/27/the-4000-basque-refugee-children-evacuated-to-britain-in-may-1937.\n“Newsletter archive (Nov. 2009).” Basque Children of ’37 Association, https://www.archive.basquechildren.org/-/docs/newsletters/20091101. Accessed 20 Apr. 2026.\n“Academia de Bailado Pirmin Treku.” Casa da Música, https://casadamusica.com/en/event/academia-de-bailado-pirmin-treku/. Accessed 20 Apr. 2026.\n“Historia.” Pirmin Treku, http://www.pirmintreku.com/historia. Accessed 20 Apr. 2026.\n“Emilio Aldecoa.” Grokipedia, https://grokipedia.com/page/emilio_aldecoa. Accessed 20 Apr. 2026.\n“Emilio Aldecoa.” Spartacus Educational, https://spartacus-educational.com/WOLaldecoa.htm. Accessed 20 Apr. 2026.\n“Basque refugee children: Hampshire memorial marks forgotten story.” BBC News, https://www.bbc.com/news/uk-england-hampshire-61179882. Accessed 20 Apr. 2026.\nGiles Tremlett. “The forgotten children of Spain’s civil war.” The Guardian, 11 May 2012, https://www.theguardian.com/world/2012/may/11/forgotten-children-spain-civil-war. Accessed 20 Apr. 2026."
   }
 }
+
